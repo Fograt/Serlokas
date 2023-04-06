@@ -12,5 +12,8 @@
   "author": "Fograt",
   "license": "ISC",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
 }
