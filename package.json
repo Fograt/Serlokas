@@ -1,18 +1,22 @@
 {
   "name": "serlokas",
   "version": "1.0.0",
+  "description": "![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square) ![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square) ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg) ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)",
   "main": "index.js",
   "scripts": {
+    "dev": "dead-server"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "(https://github.com/Fograt/Serlokas.git)"
   },
-  "author": "Fograt",
-  "license": "ISC",
-  "keywords": [],
-  "description": "",
+  "author": "Jorige Vaitkute",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fograt/Serlokas/issues"
+  },
+  "homepage": "https://github.com/Fograt/Serlokas#readme",
   "dependencies": {
     "dead-server": "^1.0.9"
   }
